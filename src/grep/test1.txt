@@ -1,0 +1,14 @@
+Hello world
+HELLO WORLD
+This is a test file with text lines.
+This line has the number 42 in it.
+Special characters: *.^$[]\
+Another hello for you!
+42 is the answer to everything.
+EMPTY_LINE_TEST
+
+hello
+line 12
+    tab line
+HeLol bat lien
+    HeLlo tab line

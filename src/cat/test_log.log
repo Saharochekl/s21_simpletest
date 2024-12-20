@@ -1,0 +1,4 @@
+no_file.txt: No such file or directory
+cat: no_file.txt: No such file or directory
+-n: No such file or directory
+cat: -n: No such file or directory
